@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Uygulama_LoginEkrani</string>
+    <string name="buttonText">GİRİS YAPINIZ</string>
+    <string name="kullaniciAdiPlaceHolder">Kullanıcı Adınız</string>
+    <string name="sifrePlaceHolder">Şifreniz</string>
+    <string name="helpText">Yardıma mı İhtiyacınız Var?</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Application_Login</string>
+    <string name="buttonText">LOG IN</string>
+    <string name="kullaniciAdiPlaceHolder">Enter Username</string>
+    <string name="sifrePlaceHolder">Enter Password</string>
+    <string name="helpText">Need Help?</string>
+</resources>
